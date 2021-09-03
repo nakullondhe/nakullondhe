@@ -44,5 +44,5 @@
 
 <a href="https://www.linkedin.com/in/nakul-londhe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nakul%20Londhe-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/nikstarr.js/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nikstarr.js-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nakulprivate27@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-sanchitsony@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nakulprivate27@gmail.com"  target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-nakulprivate27@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
