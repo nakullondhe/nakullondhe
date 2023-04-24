@@ -26,8 +26,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-  ![Lambda](https://img.shields.io/badge/-AWS Lambda-333333?style=flat&logo=awslambda)
-  ![EC2](https://img.shields.io/badge/-AWS EC2-333333?style=flat&logo=amazonec2)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
